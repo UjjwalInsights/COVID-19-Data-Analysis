@@ -22,5 +22,5 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ## Disclaimer
 The analysis provided in this repository is for informational purposes only and should not be considered as professional advice. Always consult official sources and experts for accurate information and guidance on COVID-19.
 
-## Source
+## Data Source
 https://ourworldindata.org/covid-deaths
